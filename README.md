@@ -1,4 +1,7 @@
 # Python-CBSE-Project---Restaurant-Management-system
+
+ignore LMAO2.py
+
 this is for the kids
 
 
